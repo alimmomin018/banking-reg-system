@@ -1,3 +1,5 @@
+// created by Hope Gbadamosi
+
 package com.groupproject.servlets;
 
 import com.fasterxml.jackson.databind.JsonNode;
@@ -30,7 +32,6 @@ public class UpdateUserInfo2 extends HttpServlet {
         String operation2= request.getParameter("delete");
         if(operation1!=null){
             try {
-
                 URL url = new URL("http://localhost:8089/api/customerRecords/" +request.getParameter("username"));
                 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
                 conn.setRequestMethod("GET");
@@ -61,7 +62,7 @@ public class UpdateUserInfo2 extends HttpServlet {
 
         }else if(operation2!=null){
             try {
-
+              
                 URL url = new URL("http://localhost:8089/api/deleteCustomer/" +request.getParameter("username"));
                 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
                 conn.setRequestMethod("DELETE");
