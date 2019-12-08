@@ -6,7 +6,55 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccece64-2ae5-4361-926c-3b17b2d0b9a2" name="Default" comment="" />
+    <list default="true" id="fccece64-2ae5-4361-926c-3b17b2d0b9a2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/artifacts/groupproject_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/dataSources/2c7469ba-faa6-4e79-9374-4a3c598e9b92.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/com_fasterxml_jackson_core_jackson_core_2_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/com_fasterxml_jackson_databind.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/com_google_api_client_google_api_client_gson_1_30_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/jackson_core_2_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/mysql_connector_java_8_0_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/libraries/org_springframework_spring_web_5_1_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/groupproject.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/Js/custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/servlets/CustomerInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/servlets/UpdateUserInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/servlets/UpdateUserInfo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/servlets/registration.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/util/DbConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/com/groupproject/util/GenerateAccountNumber.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/classes/webapp/login.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/WEB-INF/web" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/artifacts/groupproject_war_exploded/updateUserInfo.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/com/groupproject/servlets/CustomerInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/com/groupproject/servlets/UpdateUserInfo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/com/groupproject/servlets/registration.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/com/groupproject/util/DbConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/com/groupproject/util/GenerateAccountNumber.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/out/production/groupproject/webapp/login.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/com/groupproject/servlets/CustomerInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/com/groupproject/servlets/UpdateUserInfo2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/com/groupproject/servlets/registration.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/com/groupproject/util/DbConnection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/com/groupproject/util/GenerateAccountNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/src/webapp/login.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/web/Js/custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/web/WEB-INF/web" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/web/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../groupproject/web/updateUserInfo.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -573,12 +621,12 @@
       <workItem from="1575334312429" duration="14770000" />
       <workItem from="1575719130270" duration="323000" />
       <workItem from="1575719469733" duration="425000" />
-      <workItem from="1575719951841" duration="24575000" />
+      <workItem from="1575719951841" duration="24667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105800000" />
+    <option name="totallyTimeSpent" value="105892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
