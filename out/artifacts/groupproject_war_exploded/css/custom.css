@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+.mainFieldset {
+    padding-top:11px;
+    border: 3px solid navy;
+    width: 450px;
+    height: auto;
+    margin:100px auto;
+    border-radius:8px;
+    background-color: whitesmoke;
+    box-shadow:0 0 1000px #666;
+
+}
+
+.modalFieldset {
+
+    font-family:'Century Gothic','Futura','Didact Gothic',san-serif;
+    font-size:20px;
+}
+
+legend {
+    border: 3px solid navy;
+background-color: whitesmoke;
+    border-radius:8px;
+    }
+
+h1
+{
+    color:navy;
+    text-align:center;
+}
+p,fieldset
+{
+    font-family:'Century Gothic','Futura','Didact Gothic',san-serif;
+    font-size:20px;
+}
+
+p{
+    color: green;
+}
+input{
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 200px;
+    height: 0px;
+}
+select{
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 200px;
+    height: auto;
+}
+
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 25%; /* Could be more or less, depending on screen size */
+    height: 75%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
