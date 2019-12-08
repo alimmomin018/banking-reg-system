@@ -11,7 +11,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <link href="../css/custom.css" rel="stylesheet" type="text/css">
-  <title>Java Assignment</title>
+  <title>Project</title>
 </head>
 <body>
   <fieldset class="mainFieldset">
